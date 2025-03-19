@@ -58,3 +58,7 @@ df_words <- df_words %>%
 write.csv(df_words, "~/Documents/r_projects/textanalysis/clean_data.csv", row.names = FALSE)
 
 ```
+---
+## Data Summary
+| | Word |
+
