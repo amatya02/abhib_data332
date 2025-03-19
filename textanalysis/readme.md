@@ -99,9 +99,6 @@ write.csv(df_words, "~/Documents/r_projects/textanalysis/clean_data.csv", row.na
 
 * The bar chart displays sentiment analysis using the NRC lexicon.
 * Positive sentiment and trust are the most frequently expressed emotions.
-* Negative sentiment follows closely behind.
-* Other significant emotions include anticipation, sadness, and anger.
-* Fear, joy, surprise, and disgust are less frequent but still present.
 * The analysis highlights diverse emotional responses in consumer complaints.
 * Understanding these sentiments can help businesses improve customer relations.
 
