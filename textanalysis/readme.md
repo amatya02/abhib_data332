@@ -1,13 +1,13 @@
 # Sentiment Analysis of Consumer Complaints
 
-## Author
-Abhib Lal Amatya
+## Author - Abhib Lal Amatya
 
 ## Introduction
 I will use tidytext package in R Studio to analyze consumer complaints using NRC and Bing Lexicons to find the polarity of the complaints.
 
 ## Dictionary 
 The column that was used after tidying is:
+
 Consumer.complaint.narrative: complaints sent by consumers in its original format
 
 ## Data Cleaning
