@@ -1,0 +1,10 @@
+name: mtcar_shiny_app
+title:
+username: amatya02
+account: amatya02
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14457025
+bundleId: 10074555
+url: https://amatya02.shinyapps.io/mtcar_shiny_app/
+version: 1

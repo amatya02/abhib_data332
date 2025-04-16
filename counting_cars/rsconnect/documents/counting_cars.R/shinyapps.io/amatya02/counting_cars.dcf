@@ -1,0 +1,13 @@
+name: counting_cars
+title: counting_cars
+username: amatya02
+account: amatya02
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14541210
+bundleId: 10127359
+url: https://amatya02.shinyapps.io/counting_cars/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|cars_count.xlsx|mtcar_shiny_app.R|new_counting_cars.R
